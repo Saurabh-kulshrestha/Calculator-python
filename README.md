@@ -80,25 +80,3 @@ calculator/
 ├── README.md         # Project documentation  
 └── Screenshot.png    # Sample output from terminal (optional)
 ```
-
----
-
-## 💡 Future Enhancements
-
-- 🔹 Add support for square roots and power functions  
-- 🔹 Show complete history of calculations  
-- 🔹 Build a GUI version using Tkinter or PyQt  
-
----
-
-## 🌐 About Me
-
-👨‍💻 Saurabh Kulshrestha  
-🔗 https://www.linkedin.com/in/saurabhkulshrestha/  
-📂 https://github.com/your-username
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
